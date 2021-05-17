@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_ccl1049-demoapp_publishtoapprepo" name="sn_dd_ccl1049-demoapp_publishtoapprepo">0eab77eb1984b4107f44a85824ce875f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-17 14:50:10</sys_created_on>
+        <sys_id>16ab77eb1984b4107f44a85824ce8763</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0eab77eb1984b4107f44a85824ce875f</sys_name>
+        <sys_package display_value="CCL1049-DemoApp" source="x_1234_ccl1049_dem">a1ea7fab1984b4107f44a85824ce87e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCL1049-DemoApp">a1ea7fab1984b4107f44a85824ce87e1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_16ab77eb1984b4107f44a85824ce8763</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-17 14:50:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
